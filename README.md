@@ -35,3 +35,5 @@ http://www.x.org/wiki/radeonBuildHowTo/
 
 
 +http://repogen.simplylinux.ch/ - source list
+sudo gedit /etc/apt/sources.list 
++ http://www.x.org/wiki/radeonBuildHowTo/
