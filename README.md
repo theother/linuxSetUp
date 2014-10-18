@@ -34,6 +34,13 @@ simplescreenrecorder- http://www.maartenbaert.be/simplescreenrecorder/
 http://www.x.org/wiki/radeonBuildHowTo/
 
 
+sudo apt-get update
+sudo apt-get upgrade
+sudo do-release-upgrade
+sudo apt-get install ubuntu-release-upgrader-core
+
+
+
 +http://repogen.simplylinux.ch/ - source list
 sudo gedit /etc/apt/sources.list 
 + http://www.x.org/wiki/radeonBuildHowTo/
