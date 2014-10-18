@@ -32,3 +32,6 @@ Setup
 guvcview
 simplescreenrecorder- http://www.maartenbaert.be/simplescreenrecorder/
 http://www.x.org/wiki/radeonBuildHowTo/
+
+
++http://repogen.simplylinux.ch/ - source list
