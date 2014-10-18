@@ -44,3 +44,5 @@ sudo apt-get install ubuntu-release-upgrader-core
 +http://repogen.simplylinux.ch/ - source list
 sudo gedit /etc/apt/sources.list 
 + http://www.x.org/wiki/radeonBuildHowTo/
+
++http://askubuntu.com/questions/450349/permissions-denied-in-qgis-perhaps-all-kde-programs - user issue
