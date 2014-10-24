@@ -28,9 +28,11 @@ Setup
 
 + [Atom](https://github.com/atom/atom/blob/master/docs/build-instructions/linux.md)
 
-
-guvcview
-simplescreenrecorder- http://www.maartenbaert.be/simplescreenrecorder/
+Software
+--------
++ Robomongo
++ guvcview
++ simplescreenrecorder- http://www.maartenbaert.be/simplescreenrecorder/
 http://www.x.org/wiki/radeonBuildHowTo/
 
 
