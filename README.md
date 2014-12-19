@@ -7,7 +7,7 @@ Setup
 
 + Git
   * apt-get install git
-+Curl
++ Curl
  * sudo apt-get install curl libcurl3 libcurl3-dev php5-curl
 + Node
   1. curl -sL https://deb.nodesource.com/setup | sudo bash -
